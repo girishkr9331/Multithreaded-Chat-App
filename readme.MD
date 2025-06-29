@@ -1,3 +1,19 @@
+#FILE HANDLING UTILITY
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : GIRISH KUMAR
+
+*INTERN_ID : CT06DF2915
+
+*DOMAIN* : Java Programming
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : Neela Santhosh Kumar
+
+
+
 Chat app using sockets
 
 Instructions :
