@@ -75,7 +75,7 @@ Programming Concepts Demonstrated
 * Client-Server Architecture: Distributed system communication patterns   
 * Resource Management: Proper handling of system resources  
 
-###How It Works  
+### How It Works  
 
 * Server Startup: ChatServer creates ServerSocket and waits for connections  
 * Client Connection: Each client connects via Socket, server creates ClientHandler thread  
